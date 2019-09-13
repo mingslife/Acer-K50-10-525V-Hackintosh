@@ -49,4 +49,5 @@ And the built-in wireless & bluetooth adapter of my computer is Atheros Qualcomm
 * [黑苹果建议的无线网卡 Hackintosh Compatible WiFi(20190505增加无线路由器推荐)](https://www.itpwd.com/330.html)
 * [Broadcom BCM94352z/DW1560驱动新姿势[新方法]](https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html)
 * [VoodooHDA 2.9.2-V13](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13)
+* [[Guide] How to Enable Backlight Control on Laptop](https://www.elitemacx86.com/threads/guide-how-to-enable-backlight-control-on-laptop.182/)
 
