@@ -18,7 +18,7 @@ The specifications of K50-10-525V are following:
 * Camare: 720P Camare
 * Interfaces: USB 3.0, USB 2.0, SD card reader, HDMI, VGA, Headphone jack
 
-Everything works well on macOS Mojave 10.14.5 including **Airdrop** and **Handoff**. Of course something didn't work, like **screen brightness adjustment**.
+Everything works well on macOS Mojave 10.14.5 including **Airdrop** and **Handoff**.
 
 And I didn't check the SD card reader because I don't have any SD cards to test.
 
