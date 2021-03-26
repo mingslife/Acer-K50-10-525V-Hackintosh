@@ -1,7 +1,7 @@
 # Acer-K50-10-525V-Hackintosh
 🍎 Acer K50-10-525V Hackintosh Configuration (use Clover 🍀)
 
-# Summary
+## Summary
 
 This is a repo containing the files for Clover used to make most things working on the Acer K50-10-525V.
 
@@ -22,7 +22,7 @@ Everything works well on macOS Mojave 10.14.5 including **Airdrop** and **Handof
 
 And I didn't check the SD card reader because I don't have any SD cards to test.
 
-# How To Use
+## How To Use
 
 1. Download a macOS installation mirror with Clover from Internet, and then transfer to a USB drive.
 2. Clone this repo to the local.
@@ -30,17 +30,17 @@ And I didn't check the SD card reader because I don't have any SD cards to test.
 4. Reboot your computer and boot from your USB drive and install macOS by following the installation guide. (At this step, you may reboot your computer for several times)
 5. Wait for completion of the installation, enter the macOS, set up your system and then enjoy your Hackintosh!
 
-# Notes
+## Notes
 
 I install macOS Mojave 10.14.5, and Mojave have not supported Nvidia Graphics Card yet, so my Nvidia graphics card didn't work. If you install macOS 10.13.X, the Nvidia graphics card should work.
 
 And the built-in wireless & bluetooth adapter of my computer is Atheros Qualcomm Atheros QCA9377, but it didn't work. So I replaced it with Broadcom BCM94532Z which cost me 225 RMB. Although it was a little expensive, it works prefect and it supports Airdrop and Handoff! So if you want these two functions and the interface of your adapter is NGFF(M.2), I suggest you buy BCM94532Z or BCM943602BAED(faster and more expensive).
 
-# Screenshot
+## Screenshot
 
 ![Screenshot](screenshot.png)
 
-# References
+## References
 
 * [B站黑苹果安装教程](https://www.sqlsec.com/2018/08/clover.html)
 * [Hackintosh黑苹果长期维护机型EFI及安装教程整理](https://github.com/daliansky/Hackintosh)
@@ -50,4 +50,3 @@ And the built-in wireless & bluetooth adapter of my computer is Atheros Qualcomm
 * [Broadcom BCM94352z/DW1560驱动新姿势[新方法]](https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html)
 * [VoodooHDA 2.9.2-V13](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13)
 * [[Guide] How to Enable Backlight Control on Laptop](https://www.elitemacx86.com/threads/guide-how-to-enable-backlight-control-on-laptop.182/)
-
